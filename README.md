@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🎓 I am Aryan Yadav, a **Hybrid Mobile App Developer** (specializing in **Flutter**). I am also Pursuing my Masters in **Information Technology** and will Post Graduate in mid-2022.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **React Native**, **Flutter**, **Python** and **Blockchain development**. 
+👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **React Native**, **Flutter**, **Python** and **Blockchain development**. 
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 ### Cross Platform Development
 
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
+![reactnative](https://img.shields.io/badge/React%20Native-222222?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
