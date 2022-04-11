@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 ✈️ I love **traveling** too.
 
+[![Aryan github stats](https://github-readme-stats.vercel.app/api?username=aryany9)](https://github.com/aryany9)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryany9)](https://github.com/aryany9)
+
 ## 🛠️ Skills
 
 ### Languages
