@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🎓 I am Aryan Yadav, a **Hybrid Mobile App Developer** (specializing in **Flutter**). I am also Pursuing my Masters in **Information Technology** and will Post Graduate in May-2022.
+🎓 I am Aryan Yadav, A software engineer currently employed at an IT company, I am proud to have earned both my Bachelor's and Master's degrees in Science of Information Technology. My post-graduation education and hands-on experience as a full-stack developer have equipped me with the skills and knowledge necessary to excel in this field.
 
-👨‍💻 I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **React Native**, **Flutter**, **Python**.
+👨‍💻 I am highly passionate about gaining knowledge and expertise in new technologies.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
+🎸 In addition to my interest in technology, I am also motivated to acquire new abilities and capabilities beyond the realm of technology.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-✈️ I love **traveling** too.
+📚 Apart from technology, I am also an avid reader, particularly interested in books that focus on personal development and financial literacy. Two of my favorite books in these genres are "The Compound Effect" by Darren Hardy in the category of personal development and "Rich Dad Poor Dad" by Robert Kiyosaki in the category of financial literacy.
 
 
 
@@ -39,14 +37,12 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 
 ### Languages
-
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 ![java](https://img.shields.io/badge/java-FFFFFF?style=for-the-badge&logo=java&logoColor=orange)
 
 ### Front-End Development
-
 ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -55,14 +51,15 @@ Here are some ideas to get you started:
 ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Backend Development
+![spring](https://img.shields.io/badge/Spring-Boot-26D07C?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Cross Platform Development
-
 ![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![reactnative](https://img.shields.io/badge/React%20Native-222222?style=for-the-badge&logo=react&logoColor=white)
 
-### Backend as a Service (BaaS)
-
+### Cloud Computing Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
