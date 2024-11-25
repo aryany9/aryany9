@@ -1,25 +1,7 @@
+<h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-[![Aryan github stats](https://github-readme-stats.vercel.app/api?username=aryany9)](https://github.com/aryany9)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryany9)](https://github.com/aryany9)
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**aryany9/aryany9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ## 🚀 About Me
 
@@ -30,6 +12,13 @@ Here are some ideas to get you started:
 🎸 In addition to my interest in technology, I am also motivated to acquire new abilities and capabilities beyond the realm of technology.
 
 📚 Apart from technology, I am also an avid reader, particularly interested in books that focus on personal development and financial literacy. Two of my favorite books in these genres are "The Compound Effect" by Darren Hardy in the category of personal development and "Rich Dad Poor Dad" by Robert Kiyosaki in the category of financial literacy.
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryany9&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryany9&show_icons=true&locale=en" alt="Github Stats" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryany9&" alt="Total Streaks" /></p>
+
 
 <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryany9&theme=github-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
