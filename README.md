@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryany9&show_icons=true&locale=en" alt="Github Stats" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aryany9&" alt="Total Streaks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryany9&" alt="Total Streaks" /></p>
 
 
 <p align="center">
