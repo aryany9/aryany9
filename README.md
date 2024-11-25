@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Aryan Yadav, A software engineer currently employed at an IT company, I am proud to have earned both my Bachelor's and Master's degrees in Science of Information Technology. My post-graduation education and hands-on experience as a full-stack developer have equipped me with the skills and knowledge necessary to excel in this field.
+🎓 I am proud to have earned both my Bachelor's and Master's degrees in Science of Information Technology. My post-graduation education and hands-on experience as a full-stack developer have equipped me with the skills and knowledge necessary to excel in this field.
 
 👨‍💻 I am highly passionate about gaining knowledge and expertise in new technologies.
 
